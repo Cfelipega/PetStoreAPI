@@ -1,0 +1,15 @@
+
+---
+
+# 📄 conclusiones.md
+
+```md
+# 📌 Conclusiones
+
+El desarrollo de la API PetStoreAPI permitió fortalecer conocimientos en la creación de servicios web basados en arquitectura REST, aplicando buenas prácticas de programación y organización del código.
+
+Se logró implementar operaciones CRUD esenciales para la gestión de información de mascotas, lo que evidencia la correcta manipulación de datos mediante solicitudes HTTP.
+
+Asimismo, este proyecto contribuye a mejorar habilidades en el uso de herramientas como Git y GitHub para el control de versiones, facilitando el trabajo colaborativo y el despliegue de proyectos de software.
+
+Finalmente, PetStoreAPI representa una base funcional que puede ser escalada en el futuro para incluir nuevas funcionalidades como autenticación, persistencia en bases de datos y despliegue en la nube.
